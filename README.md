@@ -98,7 +98,7 @@ Atualmente estou no **1º semestre** e meu objetivo é me tornar um **desenvolve
 
 - 💼 **LinkedIn**: [Caio Vinicius](linkedin.com/in/caio-vinicius-fullstack).
 - 📧 **Email**: [Caio Vinicius](caio.fullstack.almeida23@gmail.com).
-- 🐙 **GitHub**: [Caio Vinicius](https://github.com/seu-usuario)
+- 🐙 **GitHub**: [Caio Vinicius](https://github.com/Vinicius-Araujo-fullstack/Vinicius-Araujo-fullstack)
 
 ## 🤝 Como Contribuir
 
